@@ -1,0 +1,14 @@
+{% if site.visitor_map.widget_id and site.visitor_map.widget_id != "" %}
+<section class="visitor-map" aria-labelledby="visitor-map-heading">
+  <h2 id="visitor-map-heading">Visitor Map</h2>
+  <div class="visitor-map__canvas">
+    <script defer id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d={{ site.visitor_map.widget_id | uri_escape }}&amp;cl=ffffff&amp;w=a"></script>
+    <noscript>
+      <a href="https://mapmyvisitors.com/">
+        <img src="https://mapmyvisitors.com/map.png?d={{ site.visitor_map.widget_id | uri_escape }}&amp;cl=ffffff&amp;w=600" alt="World map showing approximate visitor locations">
+      </a>
+    </noscript>
+  </div>
+  <p class="visitor-map__caption">Approximate visitor locations &middot; <a href="https://mapmyvisitors.com/">MapMyVisitors</a></p>
+</section>
+{% endif %}

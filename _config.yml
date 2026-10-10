@@ -118,6 +118,10 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+# Visitor map: the d parameter from this site's MapMyVisitors embed code.
+visitor_map:
+  widget_id              : "VzeYGvjRkepCmJHsY_iTnU43SZ4KhY6ygT4AltoZyVk"
+
 
 # Social Sharing
 twitter:
