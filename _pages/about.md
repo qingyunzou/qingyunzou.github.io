@@ -46,6 +46,7 @@ Findings of the Association for Computational Linguistics: EMNLP 2026
 
 **Diversity Collapse in Multi-Agent LLM Systems: Structural Coupling and Collective Failure in Open-Ended Idea Generation**<br>
 Nuo Chen, Yicheng Tong, Yuzhe Yang, Yufei He, Xueyi Zhang, **Qingyun Zou**, Qian Wang, and Bingsheng He.<br>
+Findings of the Association for Computational Linguistics: ACL 2026<br>
 FAGEN @ ICML 2026 — Oral<br>
 [Paper](https://aclanthology.org/2026.findings-acl.13/) · [PDF](https://aclanthology.org/2026.findings-acl.13.pdf)
 
