@@ -79,6 +79,7 @@ arXiv:2607.10511, 2026.<br>
 
 ## Awards
 
+- **Full Research Scholarship**, National University of Singapore (NUS)
 - **Outstanding Graduate**, Peking University (the only master's student in the department to receive the award)
 - **Academic Excellence Award**, Peking University
 - **Huawei Scholarship**, Peking University
