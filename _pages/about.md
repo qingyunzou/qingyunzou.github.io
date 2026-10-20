@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Qingyun Zou, a Ph.D. student at the School of Computing, National University of Singapore (NUS). I am very fortunate to be advised by Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I received my master's degree in Microelectronics from the [School of Integrated Circuits](https://ic.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/) and my bachelor's degree in Integrated Circuit and Integrated System from the [School of Integrated Circuits](https://ic.hust.edu.cn/) at [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
+I am Qingyun Zou, a Ph.D. student at the School of Computing, National University of Singapore (NUS). I am very fortunate to be advised by Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I received my master's degree from the [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/) and my bachelor's degree from the [School of Integrated Circuits](https://ic.hust.edu.cn/) at [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
 
 My research interests include **LLMs for electronic design automation (EDA)**, **energy-efficient LLM serving**, **LLM agents**, and **multi-agent systems**. I explore how LLMs can support hardware code generation, optimization, and verification, and how serving systems can reduce energy consumption while meeting latency and throughput requirements. I am also interested in how LLM agents use tools and work together on complex tasks, and how to make their reasoning, coordination, and evaluation more reliable.
 
@@ -52,6 +52,11 @@ FAGEN @ ICML 2026 — Oral<br>
 
 ### Selected Preprint
 
+**Physical AI: A Survey of Models, Learning, Systems, and Open Challenges**<br>
+Bin Gao, Anuj Gautam, Aritra Bagchi, Yunkai Liang, Wentao Li, Ronghui Zhu, Zhi Zhou, Yancan Mao, Xiao Yan, Xin He, **Qingyun Zou**, Wenshuo Yue, Dan Chen, Zhanglu Yan, Fei Xu, Huize Li, Weijie Wang, Tao Ouyang, and Tulika Mitra.<br>
+arXiv:2610.21171, 2026.<br>
+[arXiv](https://arxiv.org/abs/2610.21171) · [PDF](https://arxiv.org/pdf/2610.21171)
+
 **ActTune: Action-Aware Precision and GPU Operating-Point Adaptation for Energy-Efficient Vision-Language-Action Inference**<br>
 **Qingyun Zou**, Bin Gao, Wenju Zhao, Weng-Fai Wong, Bingsheng He, and Tulika Mitra.<br>
 arXiv:2610.08444, 2026.<br>
@@ -82,7 +87,7 @@ arXiv:2607.10511, 2026.<br>
 - **Full Research Scholarship**, National University of Singapore (NUS)
 - **Outstanding Graduate**, Peking University (the only master's student in the department to receive the award)
 - **Academic Excellence Award**, Peking University
-- **Huawei Scholarship**, Peking University
+- **University-Level Merit Student**, Peking University
 - **Outstanding Graduate**, Huazhong University of Science and Technology
 - **National Scholarship**, Huazhong University of Science and Technology
 - **Outstanding Undergraduate for Academic Excellence**, Huazhong University of Science and Technology
