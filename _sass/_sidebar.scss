@@ -100,6 +100,28 @@
   }
 }
 
+.author__avatar .author__avatar-crop {
+  position: relative;
+  width: 100%;
+  max-width: 175px;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border-radius: 50%;
+
+  // Frame the original 520 x 1100 photo at (135, 0), down to the bow tie.
+  img {
+    position: absolute;
+    top: 0;
+    left: -45%;
+    width: 173.333333%;
+    max-width: none;
+    height: auto;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+  }
+}
+
 .author__content {
   display: table-cell;
   vertical-align: top;
