@@ -103,6 +103,10 @@ arXiv:2607.10511, 2026.<br>
 ### Journal Reviewer
 
 - IEEE TCAD
-- IEEE Access
+
+### Teaching Assistant
+
+- Digital Logic, Peking University
+- Advanced Operating Systems, National University of Singapore
 
 {% include visitor-map.html %}
