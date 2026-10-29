@@ -15,6 +15,16 @@ My research interests include **LLM for hardware code generation and optimizatio
 
 ### Selected Published Papers
 
+**HLS-Seek: QoR-Aware Code Generation for High-Level Synthesis via Proxy Comparative Reward Reinforcement Learning**<br>
+**Qingyun Zou**, Feng Yu, Hongshi Tan, Yao Chen, Bingsheng He, and Weng-Fai Wong.<br>
+IEEE/ACM International Conference on Computer-Aided Design (ICCAD 2026)<br>
+[arXiv](https://arxiv.org/abs/2605.13536) · [PDF](https://arxiv.org/pdf/2605.13536)
+
+**On-Policy Distillation with Open Property-Equivalence Reward for LLM-Based NL-to-SVA Generation**<br>
+**Qingyun Zou**, Yingze Li, Tianen Liu, Bingsheng He, and Weng-Fai Wong.<br>
+Conference on Neural Information Processing Systems (NeurIPS 2026)<br>
+[Paper](https://neurips.cc/virtual/2026/poster/149770) · [PDF](https://arxiv.org/pdf/2605.13501)
+
 **Is Agentic AI Ready for Real-World Hardware Engineering? A Deep Dive with Phoenix-bench**<br>
 **Qingyun Zou**, Feng Yu, Hongshi Tan, Jiahao Cui, Bingsheng He, and Weng-Fai Wong.<br>
 Conference on Neural Information Processing Systems (NeurIPS 2026)<br>
@@ -25,20 +35,10 @@ Conference on Neural Information Processing Systems (NeurIPS 2026)<br>
 Conference on Neural Information Processing Systems (NeurIPS 2026)<br>
 [Paper](https://neurips.cc/virtual/2026/poster/139340)
 
-**On-Policy Distillation with Open Property-Equivalence Reward for LLM-Based NL-to-SVA Generation**<br>
-**Qingyun Zou**, Yingze Li, Tianen Liu, Bingsheng He, and Weng-Fai Wong.<br>
-Conference on Neural Information Processing Systems (NeurIPS 2026)<br>
-[Paper](https://neurips.cc/virtual/2026/poster/149770) · [PDF](https://arxiv.org/pdf/2605.13501)
-
 **Logarithmic Depth Suffices for In-Context Gradient Descent**<br>
 Yingze Li, Dong Wang, Xianglong Liu, **Qingyun Zou**, Chunnan Wang, Zhiyu Liang, and Hongzhi Wang.<br>
 Conference on Neural Information Processing Systems (NeurIPS 2026)<br>
 [Paper](https://neurips.cc/virtual/2026/poster/149279)
-
-**HLS-Seek: QoR-Aware Code Generation for High-Level Synthesis via Proxy Comparative Reward Reinforcement Learning**<br>
-**Qingyun Zou**, Feng Yu, Hongshi Tan, Yao Chen, Bingsheng He, and Weng-Fai Wong.<br>
-IEEE/ACM International Conference on Computer-Aided Design (ICCAD 2026)<br>
-[arXiv](https://arxiv.org/abs/2605.13536) · [PDF](https://arxiv.org/pdf/2605.13536)
 
 **Reading the Geometry: A Mechanism for When Frozen LLM Text Helps Tabular Foundation Models**<br>
 **Qingyun Zou**, Yingze Li, and Nuo Chen.<br>
