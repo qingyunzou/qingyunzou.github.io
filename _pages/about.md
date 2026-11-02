@@ -77,11 +77,6 @@ arXiv:2504.00050, 2025.<br>
 arXiv:2507.04315, 2025.<br>
 [arXiv](https://arxiv.org/abs/2507.04315) · [PDF](https://arxiv.org/pdf/2507.04315)
 
-**Articulate Intuition or Genuine Analysis? Benchmarking Epistemic Reliability in LLM-as-a-Judge Peer Reviews**<br>
-Nuo Chen, Qian Wang, **Qingyun Zou**, and Bingsheng He.<br>
-arXiv:2607.10511, 2026.<br>
-[arXiv](https://arxiv.org/abs/2607.10511) · [PDF](https://arxiv.org/pdf/2607.10511)
-
 ## Awards
 
 - **Full Research Scholarship**, National University of Singapore (NUS)
