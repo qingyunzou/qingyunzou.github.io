@@ -79,6 +79,7 @@ arXiv:2507.04315, 2025.<br>
 
 ## Awards
 
+- **ICCAD Student Scholar**
 - **Full Research Scholarship**, National University of Singapore (NUS)
 - **Outstanding Graduate**, Peking University (the only master's student in the department to receive the award)
 - **Academic Excellence Award**, Peking University
